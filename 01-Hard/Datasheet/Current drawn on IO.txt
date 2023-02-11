@@ -1,0 +1,1 @@
+https://electronics.stackexchange.com/questions/67092/how-much-current-can-i-draw-from-the-arduinos-pins

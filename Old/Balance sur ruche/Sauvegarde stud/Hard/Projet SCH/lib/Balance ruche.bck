@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL5802
+D 100 MHz to 6 GHz Dual Channel Active Mixer, LFCSP-24
+K mixer rf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5802.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,67 @@
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-B_Mask.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D19   --> D100
+D20   --> D101
+D21   --> D102
+D22   --> D103
+D23   --> D104
+D24   --> D105
+D25   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-Edge_Cuts.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-F_Cu.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D19   --> D108
+D20   --> D109
+D21   --> D110
+D22   --> D111
+D23   --> D112
+D24   --> D113
+D25   --> D114
+D26   --> D115
+D27   --> D116
+D28   --> D117
+D29   --> D118
+D30   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-F_Mask.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D19   --> D120
+D20   --> D121
+D21   --> D122
+D22   --> D123
+D23   --> D124
+D24   --> D125
+D25   --> D126
+D26   --> D127
+D27   --> D128
+D28   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-F_Paste.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D10   --> D130
+D11   --> D131
+D12   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'S:\Partage\TW\Ruche\Hard\CAO\Carte boitier principal\OUTPUT FAB\Gerber Carte boitier principal V01-draft01\Balance ruche-F_SilkS.gbr' ----   Tue Apr 05 15:49:32 2022
+
+D10   --> D133
+D11   --> D134
+D12   --> D135
+D13   --> D136
+-----------------------------------------------------------------

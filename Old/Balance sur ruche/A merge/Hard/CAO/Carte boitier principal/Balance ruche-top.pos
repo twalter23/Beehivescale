@@ -1,0 +1,8 @@
+### Module positions - created on 03/31/22 17:03:01 ###
+### Printed by Pcbnew version kicad (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                               PosX       PosY       Rot  Side
+U1        bq2438x          WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias    32.6000     0.2900  180.0000  top
+U2        MCP73837-xxx_UN  MSOP-10_3x3mm_P0.5mm                               19.9800     0.0000  180.0000  top
+## End

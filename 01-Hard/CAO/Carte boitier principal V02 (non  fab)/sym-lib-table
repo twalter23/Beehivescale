@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name power_ruche)(type Legacy)(uri S:/Partage/TW/Ruche/Hard/CAO/lib/Symboles/power_ruche.lib)(options "")(descr ""))
+  (lib (name Balance-ruche)(type Legacy)(uri "S:/Partage/TW/Ruche/Hard/CAO/lib/Symboles/Balance ruche.lib")(options "")(descr ""))
+)

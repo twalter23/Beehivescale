@@ -1,0 +1,13 @@
+----------------- Support --------------
+1) Préparer le support
+2) Fixer les jauges de contrainte (impression 3D) -- Trou
+3) Brancher jauges de contrainte entre elles 
+Haut + bas : blanc sur blanc
+Droit + gauche : noir sur noir
+4) Brancher sur HX711 + préparer câblage entrée
+5) Calibrer HX711
+
+----------------- Calibration --------------
+1) Prendre un arduino
+2) Câbler le HX711 (5V + port série : peut être émulé, pas besoin broches 0 et 1)
+

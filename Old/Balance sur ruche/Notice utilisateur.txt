@@ -1,0 +1,4 @@
+- Emplacement avec numéro fil :1,2,3,4
+- Emplacement capteur (chaque coin, dans l'angle)
+- Ne pas pincer fils dans capteurs
+- Ne pas orienter USB vers le haut (bas ou côté), à l'abri ! 

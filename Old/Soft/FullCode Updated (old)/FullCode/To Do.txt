@@ -1,0 +1,12 @@
+3 fichiers source (avec leurs headers)
+
+- SevSeg.c qui contient :
+SevSegSetup
+
+- Analog.c qui contient :
+BatteryADCSetup
+ReadVoltage
+CheckVoltageLevel
+
+Hardware.c :
+PinMappingSetup

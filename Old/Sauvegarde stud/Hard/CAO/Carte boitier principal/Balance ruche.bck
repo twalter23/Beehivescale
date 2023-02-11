@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +5V_BOOST
+D Power symbol creates a global label with name "+5V_FUSED"
+K power-flag
+$ENDCMP
+#
+$CMP +5V_FUSED
+D Power symbol creates a global label with name "+5V_FUSED"
+K power-flag
+$ENDCMP
+#
+$CMP +CELL
+D Power symbol creates a global label with name "+5V_FUSED"
+K power-flag
+$ENDCMP
+#
+$CMP +CELL_ON
+D Power symbol creates a global label with name "+5V_FUSED"
+K power-flag
+$ENDCMP
+#
+$CMP +CELL_ON_ENA
+D Power symbol creates a global label with name "+5V_FUSED"
+K power-flag
+$ENDCMP
+#
+$CMP LTC4002ES8-4.2_copy
+D Standalone Li-Ion Switch Mode Battery Charger, 4.7-22V input, single cell, SOIC-8
+K lithium li-ion battery charger
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4002f.pdf
+$ENDCMP
+#
+$CMP LTC4002ES8-8.4_copy
+D Standalone Li-Ion Switch Mode Battery Charger, 8.9-22V input, double cell, SOIC-8
+K lithium li-ion battery charger
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4002f.pdf
+$ENDCMP
+#
+$CMP MCP73837
+D Standalone Li-Ion Switch Mode Battery Charger, 4.7-22V input, single cell, 10-Lead MSOP
+K lithium li-ion battery charger
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Balance ruche")(type Legacy)(uri "${KIPRJMOD}/lib/Balance ruche.lib")(options "")(descr ""))
+  (lib (name power_ruche)(type Legacy)(uri ${KIPRJMOD}/lib/power_ruche.lib)(options "")(descr ""))
+)
